@@ -1,2 +1,2 @@
 # WebSite
-The
+A small decentralized network

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,j as a}from"./chunks/framework.C89UDvQe.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"join.md","filePath":"join.md"}'),n={name:"join.md"},s=a("p",null,"Nan",-1),r=[s];function c(i,_,d,p,l,m){return o(),t("div",null,r)}const u=e(n,[["render",c]]);export{h as __pageData,u as default};

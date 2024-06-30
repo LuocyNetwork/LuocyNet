@@ -7,16 +7,16 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Docs', link: '/start' }
+      { text: '主页', link: '/' },
+      { text: '文档', link: '/docs' }
     ],
 
     sidebar: [
       {
-        text: 'Docs',
+        text: '文档',
         items: [
-          { text: 'Start', link: '/start' },
-          { text: 'Join', link: '/join' }
+          { text: '开始', link: '/docs/' },
+          { text: '白皮书', link: '/docs/whitepaper' }
         ]
       }
     ],
@@ -24,5 +24,10 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/LuocyNetwork' }
     ]
+  },
+  lastUpdated: true,
+  sitemap: {
+    hostname: 'https://luocynet.com'
   }
 })
+

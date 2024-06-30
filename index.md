@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "LuocyNet"
-  text: "Open Network"
-  tagline: A small decentralized network
+  text: "开放网络"
+  tagline: 一个小型的去中心化网络
   actions:
     - theme: brand
-      text: Start
-      link: /start
+      text: Docs
+      link: /docs
     - theme: alt
-      text: Join
-      link: /join
+      text: WhitePaper
+      link: /docs/whitepaper
 
 features:
-  - title: 🚪Open
-    details: This open network
-  - title: 👌Simple
-    details: WireGuard and OpenVPN are supported to connect to our network
-  - title: 🏳️‍🌈Inclusive
-    details: We allow anyone to apply to join our network
+  - title: 🚪开放
+    details: 一个开放的网络
+  - title: 👌简单
+    details: 我们支持使用 WireGuard 与 OpenVPN 加入网络
+  - title: 🏳️‍🌈包容
+    details: 我们允许任何人加入我们
 ---
 

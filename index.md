@@ -20,6 +20,6 @@ features:
   - title: 👌简单
     details: 我们支持使用 WireGuard 与 OpenVPN 加入网络
   - title: 🏳️‍🌈包容
-    details: 我们允许任何人加入我们
+    details: 我们允许任何人加入LuocyNet
 ---
 

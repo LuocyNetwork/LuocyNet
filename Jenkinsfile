@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('构建') {
             steps {
-                    sh curl -sL “https://deb.nodesource.com/setup_20.x | sudo -E bash -“
+                    sh curl -sL deb.nodesource.com/setup_20.x | sudo -E bash -
                     sh apt install nodejs
                     sh 'node -v'
                     sh 'npm config set registry https://registry.npmmirror.com'
